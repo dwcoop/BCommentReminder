@@ -1,1 +1,1 @@
-# Blogger 留言提醒外掛# BCommentReminder
+# Blogger 留言提醒外掛
